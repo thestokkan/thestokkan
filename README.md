@@ -39,7 +39,7 @@ I'm currently learning programming fundamentals through [Launch School](https://
 ![ruby](https://img.shields.io/badge/-Ruby-3a7375?logo=ruby&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3a7375?style=flat-square&logo=javascript&logoColor=white)
 
-<!--
+
 ----
 
 </br>
@@ -49,4 +49,5 @@ I'm currently learning programming fundamentals through [Launch School](https://
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thestokkan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+<!--
 -->
