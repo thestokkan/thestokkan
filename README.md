@@ -20,12 +20,12 @@ I'm currently learning programming fundamentals through [Launch School](https://
 ----
 
 #### 💻 Technologies
-🔧 Using: 
 ![Linux](https://img.shields.io/badge/-Linux-3a7375?style=flat&logo=linux&logoColor=white)
 ![Mac](https://img.shields.io/badge/-Mac-3a7375?style=flat&logo=apple&logoColor=white)
 ![shell bash](https://img.shields.io/badge/-Bash-3a7375?style=flat&logo=gnu-bash&logoColor=white)
 ![shell zsh](https://img.shields.io/badge/-zsh-3a7375?style=flat&logo=Zsh&logoColor=white)
 ![R](https://img.shields.io/badge/-R-3a7375?style=flat-square&logo=R&logoColor=white)
+![ruby](https://img.shields.io/badge/-Ruby-3a7375?logo=ruby&logoColor=white&style=flat-square)
 ![matlab](https://img.shields.io/badge/-Matlab-3a7375?logo=Mathworks&logoColor=white&style=flat-square)
 ![vim](https://img.shields.io/badge/-Vim-3a7375?style=flat-square&logo=vim&logoColor=white)
 ![emacs](https://img.shields.io/badge/-Emacs-3a7375?style=flat-square&logo=gnu-emacs&logoColor=white)
@@ -35,11 +35,10 @@ I'm currently learning programming fundamentals through [Launch School](https://
 ![Slack](https://img.shields.io/badge/-Slack-3a7375?style=flat-square&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-3a7375?style=flat-square&logo=Notion&logoColor=white)
 
-🧑🏻‍🎓 Learning: 
-![ruby](https://img.shields.io/badge/-Ruby-3a7375?logo=ruby&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-3a7375?style=flat-square&logo=javascript&logoColor=white)
-
+<a href="https://github.com/thestokkan/thestokkan">
+  <img align="center" src="https://https://github-readme-stats-thestokkan.vercel.app/api/top-langs/?username=thestokkan&show_icons=true&line_height=27&theme=prussian" alt="Top languages" />
 <!--
+![JavaScript](https://img.shields.io/badge/-JavaScript-3a7375?style=flat-square&logo=javascript&logoColor=white)
 ----
 <a href="https://github.com/thestokkan/thestokkan">
   <img align="center" src="https://https://github-readme-stats-thestokkan.vercel.app/api?username=thestokkan&show_icons=true&line_height=27&theme=prussian" alt="My GitHub Stats" />
