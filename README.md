@@ -35,16 +35,22 @@ I'm currently learning programming fundamentals through [Launch School](https://
 ![Slack](https://img.shields.io/badge/-Slack-3a7375?style=flat-square&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-3a7375?style=flat-square&logo=Notion&logoColor=white)
 
+
+</br>
 <a href="https://github.com/thestokkan/thestokkan">
-  <img align="center" src="https://https://github-readme-stats-thestokkan.vercel.app/api/top-langs/?username=thestokkan&show_icons=true&line_height=27&theme=prussian" alt="Top languages" />
+  <img align="bottom" src="https://github-readme-stats-thestokkan.vercel.app/api?username=thestokkan&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="My GitHub Stats" />
 </a>
+<a href="https://github.com/thestokkan/thestokkan">
+  <img align="bottom" src="https://github-readme-stats-thestokkan.vercel.app/api/top-langs/?username=thestokkan&show_icons=true&line_height=27&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff&layout=compact" alt="Top languages" />
+</a>
+
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3a7375?style=flat-square&logo=javascript&logoColor=white)
 ----
 <a href="https://github.com/thestokkan/thestokkan">
-  <img align="center" src="https://https://github-readme-stats-thestokkan.vercel.app/api?username=thestokkan&show_icons=true&line_height=27&theme=prussian" alt="My GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-thestokkan.vercel.app/api?username=thestokkan&show_icons=true&line_height=27&theme=prussian" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/thestokkan/thestokkan">
-  <img align="center" src="https://https://github-readme-stats-thestokkan.vercel.app/api/top-langs/?username=thestokkan&show_icons=true&line_height=27&theme=prussian" alt="Top languages" />
+  <img align="center" src="https://github-readme-stats-thestokkan.vercel.app/api/top-langs/?username=thestokkan&show_icons=true&line_height=27&theme=prussian" alt="Top languages" />
 </a>
 -->
