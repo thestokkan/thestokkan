@@ -37,6 +37,7 @@ I'm currently learning programming fundamentals through [Launch School](https://
 
 <a href="https://github.com/thestokkan/thestokkan">
   <img align="center" src="https://https://github-readme-stats-thestokkan.vercel.app/api/top-langs/?username=thestokkan&show_icons=true&line_height=27&theme=prussian" alt="Top languages" />
+</a>
 <!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3a7375?style=flat-square&logo=javascript&logoColor=white)
 ----
