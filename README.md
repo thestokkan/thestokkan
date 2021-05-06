@@ -38,10 +38,10 @@ I'm currently learning programming fundamentals through [Launch School](https://
 
 </br>
 <a href="https://github.com/thestokkan/thestokkan">
-  <img align="bottom" src="https://github-readme-stats-thestokkan.vercel.app/api?username=thestokkan&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff" alt="My GitHub Stats" />
+  <img align="bottom" src="https://github-readme-stats-thestokkan.vercel.app/api?username=thestokkan&show_icons=true&line_height=27&count_private=true&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=cccccc" alt="My GitHub Stats" />
 </a>
 <a href="https://github.com/thestokkan/thestokkan">
-  <img align="bottom" src="https://github-readme-stats-thestokkan.vercel.app/api/top-langs/?username=thestokkan&show_icons=true&line_height=27&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=ffffff&layout=compact" alt="Top languages" />
+  <img align="bottom" src="https://github-readme-stats-thestokkan.vercel.app/api/top-langs/?username=thestokkan&show_icons=true&line_height=27&title_color=1d1f21&text_color=1d1f21&icon_color=2bbc8a&bg_color=cccccc&layout=compact" alt="Top languages" />
 </a>
 
 <!--
