@@ -5,7 +5,7 @@ I'm currently learning programming fundamentals through [Launch School](https://
 - 📍 Oslo area, Norway 
 - 👩🏻‍💼 Research assistant at [NORMENT](https://www.med.uio.no/norment/english/)
 - 🌱 Currently learning ![](https://img.shields.io/badge/-Ruby-ffffff?logo=ruby&logoColor=red&style=flat-square)
-- ❤️ Open source, Open science, Markdown, building things, documentation, making graphs look pretty
+- ❤️ Open source, Open science, Markdown, building things, documentation, learning
 
 
 #### 💬 Get social 
