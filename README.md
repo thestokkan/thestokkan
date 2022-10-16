@@ -1,10 +1,11 @@
 ## 👋 Hi, there!
 
-I'm currently learning programming fundamentals through [Launch School](https://launchschool.com/), working my way towards becoming a developer. 🚀
+👩🏻 I'm a creative and analytical person with wide-ranging interests and a constant need to learn.
 
+- 🧱 I'm driven by a strong need to create or build. Anything from drawing, knitting, making jewelry, and carpentry to building knowledge bases and wikis, documentation, databases, systems, and computer programs. I'm also a tool geek and love physical, technological, and digital tools.
+- 🔥 Passionate about Technology for good, particularly within the sectors of healthcare, education, and environmental sustainability.
 - 📍 Oslo area, Norway 
-- 🌱 Currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-3a7375?style=flat-square&logo=javascript&logoColor=white)
-- ❤️ Open source, Open science, Markdown, building things, documentation, learning
+- 🌱 Currently learning ![Java](https://img.shields.io/badge/-Java-3a7375?style=flat&logo=java&logoColor=white)
 
 
 #### 💬 Get social 
@@ -23,6 +24,7 @@ I'm currently learning programming fundamentals through [Launch School](https://
 ![Mac](https://img.shields.io/badge/-Mac-3a7375?style=flat&logo=apple&logoColor=white)
 ![shell bash](https://img.shields.io/badge/-Bash-3a7375?style=flat&logo=gnu-bash&logoColor=white)
 ![shell zsh](https://img.shields.io/badge/-zsh-3a7375?style=flat&logo=Zsh&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-3a7375?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3a7375?style=flat-square&logo=javascript&logoColor=white)
 ![R](https://img.shields.io/badge/-R-3a7375?style=flat-square&logo=R&logoColor=white)
 ![ruby](https://img.shields.io/badge/-Ruby-3a7375?logo=ruby&logoColor=white&style=flat-square)
