@@ -9,9 +9,6 @@
 
 
 #### 💬 Get social 
-<a href="https://twitter.com/thestokkan">
-  <img align="left" alt="Therese's Twitter" width="20px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />
-</a>
 <a href="https://linkedin.com/in/thestokkan">
   <img align="left" alt="Therese's LinkedIn" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1200px-Linkedin_icon.svg.png" />
 </a>
