@@ -1,9 +1,8 @@
 ## 👋 Hi, there!
 
-👩🏻 I'm a creative and analytical person with wide-ranging interests and a constant need to learn.
+I am a multidisciplinary developer with a physics, programming, psychology, and neuroscience background. I am deeply committed to sustainability and human-centred technology, believing in making a positive impact through knowledge sharing and interdisciplinary collaboration. 🌍💡
 
-- 🧱 I'm driven by a strong need to create or build. Anything from drawing, knitting, making jewelry, and carpentry to building knowledge bases and wikis, documentation, databases, systems, and computer programs. I'm also a tool geek and love physical, technological, and digital tools.
-- 🔥 Passionate about Technology for good, particularly within the sectors of healthcare, education, and environmental sustainability.
+- 🔥 Passionate about Technology for good, particularly within healthcare, education, and environmental sustainability.
 - 📍 Oslo area, Norway 
 - 🌱 Currently learning ![Java](https://img.shields.io/badge/-Java-3a7375?style=flat&logo=java&logoColor=white)
 
